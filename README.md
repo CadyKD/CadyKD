@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there...
+
+This is my personal GitHub account used for such things as Java Bootcamp projects and College projects. I'll probably someday organize it into a neat little portfolio, but for now I'm rather busy completing my CompSci degree and working as a newbie software developer.
 
 <!--
 **CadyKD/CadyKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
